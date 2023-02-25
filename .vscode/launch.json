@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LC150",
+            "request": "launch",
+            "mainClass": "LC150",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC443StringComp",
+            "request": "launch",
+            "mainClass": "LC443StringComp",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruitBasket",
+            "request": "launch",
+            "mainClass": "FruitBasket",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC209slidingwindowpractice",
+            "request": "launch",
+            "mainClass": "LC209slidingwindowpractice",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPalindrome",
+            "request": "launch",
+            "mainClass": "IsPalindrome",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC33",
+            "request": "launch",
+            "mainClass": "LC33",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC152",
+            "request": "launch",
+            "mainClass": "LC152",
+            "projectName": "LeetcodePractice_54dd4682"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC153",
+            "request": "launch",
+            "mainClass": "LC153",
+            "projectName": "LeetcodePractice_54dd4682"
+        }
+    ]
+}
